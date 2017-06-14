@@ -1,0 +1,13 @@
+{
+  "name": "is-webpack-bundle",
+  "version": "1.0.0",
+  "description": "Check if your code has been bundled with webpack",
+  "main": "index.js",
+  "repository": "thejameskyle/is-webpack-bundle",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "files": [],
+  "devDependencies": {
+    "flow-bin": "^0.48.0"
+  }
+}
